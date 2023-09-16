@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+body {
+    padding: 0;
+    margin: 0;
+}
+.link {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.hrr {
+    margin-top: 1.5rem;
+}
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+.box {
+    width: 200px;
+    height: 250px;
+    background-color: hsla(211, 55%, 65%, 0.811);
+    border-radius: 0.5rem;
+    padding: 1em;
+    font-weight: 700;
+    text-align: center;
+}
+.picture {
+    width: 150px;
+    height: 150px;
+    mix-blend-mode: darken;
+    margin-bottom: 2rem;
+}
+.para {
+    margin-top: -1.5rem;
+    font-family: 'Righteous', cursive;
+}
+/* .border-table {
+    width: 1010px;
+    height: 240px;
+    border: solid thin black;
+    margin-top: 3rem;
+    margin-left: 15rem;
+} */
+.table {
+    width: 1000px;
+    height: 200px;
+    margin-left: 15rem;
+    margin-top: 3rem;
+    text-align: left;
+    border-radius: 0.5rem;
+}
+.thead {
+    text-align: center;
+    border: transparent;
+}
+/* .para-2 {
+    margin-left: 2em;
+    font-weight: 900;
+    display: block;
+} */
+/* .new {
+    width: 100px;
+    height: 50px;
+    margin-left: -5rem;
+} */
