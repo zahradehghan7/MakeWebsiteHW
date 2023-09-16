@@ -94,6 +94,7 @@ body {
 .picture {
     width: 150px;
     height: 150px;
+    mix-blend-mode: darken;
 }
 .para {
     margin-top: 0.5rem;
